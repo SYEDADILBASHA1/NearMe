@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 06-04-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -55,9 +55,14 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-![Screenshot (173)](https://github.com/SYEDADILBASHA1/NearMe/assets/134796157/c8ef0f2a-25bc-4652-8cbc-73dea59e17ef)
 
+![Screenshot (173)](https://github.com/SYEDADILBASHA1/NearMe/assets/134796157/5824c1e3-3530-4127-b381-7426c6e9a755)
 
+![Screenshot (174)](https://github.com/SYEDADILBASHA1/NearMe/assets/134796157/e9a6f8f5-ce9f-448e-a1e8-1738b17bee0c)
+
+![Screenshot (175)](https://github.com/SYEDADILBASHA1/NearMe/assets/134796157/c6e5bd76-2d66-46b3-8096-c9305bb86a1c)
+
+![Screenshot (176)](https://github.com/SYEDADILBASHA1/NearMe/assets/134796157/05335000-2286-44a2-9ba5-be6c03bc1f58)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
